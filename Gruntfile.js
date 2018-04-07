@@ -23,6 +23,7 @@ module.exports = function (grunt) {
       cosmo:{},
       cyborg:{},
       darkly:{},
+      darkmateria:{},
       flatly:{},
       journal:{},
       litera:{},

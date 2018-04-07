@@ -32,6 +32,7 @@ module.exports = function (grunt) {
       materia:{},
       minty:{},
       pulse:{},
+      rockstar:{},
       sandstone:{},
       simplex:{},
       sketchy:{},
